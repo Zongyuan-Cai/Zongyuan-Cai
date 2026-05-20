@@ -2,6 +2,6 @@
 
 Email: 213252535@seu.edu.cn
 
-Affiliation: southeast University
+Affiliation: Southeast University
 
-I am interested in llm agent.
+I am interested in Large Language Models, LLM Agents.
