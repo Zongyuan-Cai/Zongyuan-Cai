@@ -7,7 +7,7 @@
 Southeast University · 东南大学<br>
 School of Computer Science and Engineering · 计算机科学与工程学院
 
-[Website](https://zongyuan-cai.github.io/) · [Research](https://arxiv.org/abs/2606.30296) · [Email](mailto:213252535@seu.edu.cn)
+[Website](https://zongyuan-cai.github.io/) · [Blog](https://zongyuan-cai.github.io/blog/) · [Research](https://arxiv.org/abs/2606.30296) · [Email](mailto:213252535@seu.edu.cn)
 
 </div>
 
